@@ -51,7 +51,7 @@ class Conversion{
 
         }while(reponse == 'o');
 
-    System.out.println("Au revoir !");
+    System.out.println("Merci de m'avoir utilisé ! ");
     }
 
     private static Double arrondi(double A, int B) {
