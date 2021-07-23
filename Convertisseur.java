@@ -45,7 +45,8 @@ class Conversion{
 
             // On recommence ?
             do{
-                System.out.println("Souhaitez-vous convertir une autre température ?  (O/N)");reponse = sc.nextLine().charAt(0);
+                System.out.println("Souhaitez-vous convertir une autre température ?  (O/N)");
+                reponse = sc.nextLine().charAt(0);
 
             }while(reponse!='o' && reponse!='n');
 
