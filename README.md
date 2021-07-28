@@ -1,6 +1,6 @@
 # JavaLearning
 
-En parrallèle de mes cours à l'EPSI, je m'autoforme sur le langage JAVA et ses frameworks à travers divers projet personnels. 
+En parallèle de mes cours à l'EPSI, je m'autoforme sur le langage JAVA et ses frameworks à travers divers projet personnels. 
 
 ## Projets à faire 
 
@@ -19,6 +19,7 @@ M'exercer sur les tests unitaires
 #### Outils 
 
 - Visual Studio Code 👨‍💻
+- TestNG
 - [Projet Git disponible ici](https://github.com/Hellisium/testNG)
 
 ## Projets Fini 
@@ -56,4 +57,4 @@ Me remettre à niveau en Java.
 #### Outils 
 
 - Visual Studio Code 👨‍💻
-- [Projet Git disponible ici](https://github.com/Hellisium/JavaLearning/tree/master/Exercice_pair_impair)
+- [Projet Git disponible ici](https://github.com/Hellisium/JavaLearning/tree/master/Nombre_pair_impair)
