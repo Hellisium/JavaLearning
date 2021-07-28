@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\MaximeHolec\Documents\Cours\Autoformation\JavaLearning\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+91822895.index
